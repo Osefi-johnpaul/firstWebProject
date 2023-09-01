@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+.back{
+    background-image:  url(images/pngimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home{
+    color: rgba(255, 119, 0, 0.811);
+    font-weight: 500;
+    font-size: 17px;
+}
+#same{
+    color: #16023b;
+    font-size: 17px;
+    font-weight: 500;
+}
+#Enroll{
+    background-color: white;
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #16023b;
+}
+#small{
+    font-size: 20px;
+    color: black;
+}
+#big1{
+    font-size: 50px;
+    color:  rgba(255, 119, 0, 0.811);
+}
+.cold{
+    color: #999696;
+}
+
+
+
+#bor{
+    border-radius: 10px;
+    border: 1px solid rgb(95, 142, 129);
+    margin-left: 30px;
+    margin-bottom: 10px;
+    background-color: whitesmoke;
+   
+}
+.nub{
+    color: rgb(95, 142, 129);
+}
+.bi{
+    font-size: 15px;
+    font-weight: 700
+    
+}
+.cd{
+    font-size: 15px;
+    color: rgb(94, 92, 92);
+    font-weight: 400;
+}
+#bga{
+    padding-top: 50px;
+}
+#small5{
+    font-size: 20px;
+    color: black;
+    padding-left: 15px;
+}
+#cs{
+    font-size: 22px;
+    color: #837e8f;
+    font-weight: 700;
+}
+#pa{
+    font-size: 25px;
+    color:  #6f6d72;
+    font-weight: 350;
+}
+#ds{
+    color: rgb(95, 142, 129);
+}
+#button3{
+    color: white;
+    background-color: #2c253b;
+    border-radius: 30px;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#lis{
+    text-decoration: none;
+    list-style: none;
+    color: rgba(255, 119, 0, 0.811);
+}
+#liz{
+    font-size: 23px;
+}
+.ima{
+    width: 90px;
+}
+#yo{
+    color: #797676;
+    list-style: none;
+    text-decoration: none;
+    font-size: 23px;
+}
